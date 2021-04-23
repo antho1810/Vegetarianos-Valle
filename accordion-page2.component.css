@@ -1,0 +1,35 @@
+.accordion-button{
+    left: auto;
+}
+img{
+   height:  110px;
+   width: 100px; 
+   margin-left: 3px; 
+   border-radius: 10px; 
+}
+table{
+    width: 100%
+}
+
+label {
+ margin-bottom: 0px im !important;   
+}
+
+.description text-justify{
+margin-right: 3px;
+}
+.Precio{
+    display: flex;
+}
+.price{
+    width: 35%;
+    color: rgb(255,156,51); 
+    font-weight: 700;
+}
+.Subtitulo{
+    padding-left: 10px; 
+    width: 85%;
+}
+.img {
+    width: 15%;
+}
